@@ -1,7 +1,7 @@
 # 🎌 My Anime Dashboard  
 
-[![Tableau Public](https://img.shields.io/badge/View-Dashboard-blue?logo=tableau)](YOUR_TABLEAU_PUBLIC_LINK) 
-[![Python](https://img.shields.io/badge/Python-3.10+-yellow?logo=python)](https://www.python.org/) 
+[![Tableau Public](https://img.shields.io/badge/View-Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/kartik.sharma1671/viz/MyAnimeDashboard/Dashboard1) 
+[![Python](https://img.shields.io/badge/Python-3.13.5-yellow?logo=python)](https://www.python.org/) 
 [![Figma](https://img.shields.io/badge/Design-Figma-orange?logo=figma)](YOUR_FIGMA_LINK) 
 [![AniList](https://img.shields.io/badge/API-AniList-purple?logo=graphql)](https://anilist.gitbook.io/anilist-apiv2-docs/) 
 
@@ -56,7 +56,7 @@ The workflow automatically fetches anime data weekly and updates the dashboard w
 ## 🖼️ Dashboard Preview  
 *(Insert a screenshot here)*  
 
-![Dashboard Preview](YOUR_DASHBOARD_IMAGE.png)  
+![Dashboard Preview](MyAnimeDashboard.png)  
 
 ---
 
@@ -67,8 +67,6 @@ The workflow automatically fetches anime data weekly and updates the dashboard w
 - **Task Scheduler** → Auto updates CSV weekly  
 - **Tableau** → Data visualization & dashboard  
 - **Figma** → Custom background design  
-
----
 
 ---
 
@@ -94,9 +92,9 @@ The workflow automatically fetches anime data weekly and updates the dashboard w
 
 ## 🌐 Links  
 
-- 📊 **Tableau Dashboard** → [View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)  
-- 🎨 **Figma Design** → [Open in Figma](YOUR_FIGMA_LINK)  
-- 💻 **GitHub Repository** → [My Anime Dashboard](https://github.com/YOUR_USERNAME/my-anime-dashboard)  
-- 🔗 **AniList Profile** → [View My AniList](YOUR_ANILIST_PROFILE_LINK)  
+- 📊 **Tableau Dashboard** → [View on Tableau Public](https://public.tableau.com/app/profile/kartik.sharma1671/viz/MyAnimeDashboard/Dashboard1)  
+- 🎨 **Figma Design** → [Open in Figma](https://www.figma.com/design/bJR4jMPRqJSF4xdwxdVnse/Anime-Dashboard-BG?node-id=3-5&t=E2gnXfjUTos2StPp-1)  
+- 💻 **GitHub Repository** → [My Anime Dashboard](https://github.com/sh-kartik18/My-Anime-Dashboard)  
+- 🔗 **AniList Profile** → [View My AniList](https://anilist.co/user/Kartikk18/)  
 
 ---
