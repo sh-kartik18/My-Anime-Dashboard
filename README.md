@@ -2,7 +2,7 @@
 
 [![Tableau Public](https://img.shields.io/badge/View-Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/kartik.sharma1671/viz/MyAnimeDashboard/Dashboard1) 
 [![Python](https://img.shields.io/badge/Python-3.13.5-yellow?logo=python)](https://www.python.org/) 
-[![Figma](https://img.shields.io/badge/Design-Figma-orange?logo=figma)](YOUR_FIGMA_LINK) 
+[![Figma](https://img.shields.io/badge/Design-Figma-orange?logo=figma)](https://www.figma.com/) 
 [![AniList](https://img.shields.io/badge/API-AniList-purple?logo=graphql)](https://anilist.gitbook.io/anilist-apiv2-docs/) 
 
 
@@ -54,7 +54,6 @@ The workflow automatically fetches anime data weekly and updates the dashboard w
 ---
 
 ## 🖼️ Dashboard Preview  
-*(Insert a screenshot here)*  
 
 ![Dashboard Preview](MyAnimeDashboard.png)  
 
@@ -98,3 +97,21 @@ The workflow automatically fetches anime data weekly and updates the dashboard w
 - 🔗 **AniList Profile** → [View My AniList](https://anilist.co/user/Kartikk18/)  
 
 ---
+
+## 📬 Contact  
+
+If you liked this project or have suggestions, feel free to connect with me:  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh-kartik18) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh-kartik/) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiksharma17022004@gmail.com)  
+
+---
+
+## ⭐ Support  
+
+If you found this project useful:  
+- Leave a **star ⭐** on the repo  
+- Share it with fellow anime & data viz fans!  
+
+Thanks for checking out **My Anime Dashboard**! 🎉  
