@@ -55,7 +55,7 @@ The workflow automatically fetches anime data weekly and updates the dashboard w
 
 ## 🖼️ Dashboard Preview  
 
-![Dashboard Preview](Dashboard.png)  
+![Dashboard Preview](Anime_Dashboard.png)  
 
 ---
 
